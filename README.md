@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m Peter Odrobiňák<br>👀 I’m interested in programming in c++ and c#<br>🌱 I’m currently learning C#
+Hello there! I'm Peter, a passionate student at SPSIT, dedicated to mastering the art of programming. My journey in the world of technology has led me to immerse myself in the realms of C#, ASP.NET, HTML, CSS, and JavaScript.
+
+Currently, you can often find me buried in lines of code, crafting web applications and solutions that blend functionality and aesthetics seamlessly. I believe in the power of coding to transform ideas into reality, and I'm constantly seeking ways to expand my skill set and take on new challenges.
+
+When I'm not engrossed in coding, I enjoy exploring the latest trends in web development and staying up-to-date with the ever-evolving tech landscape. I find immense satisfaction in solving intricate problems and contributing to the world of digital innovation.
+
+As a student, I'm determined to soak up as much knowledge as possible, both within the classroom and beyond. I'm not just learning to code; I'm learning to create, to innovate, and to make a meaningful impact in the digital sphere.
+
+Feel free to connect with me if you're interested in discussing programming, sharing ideas, or collaborating on exciting projects. Let's embark on this coding adventure together!
 
 
 ## 🌐 Socials:
