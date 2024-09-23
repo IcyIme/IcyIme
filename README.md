@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Peter, a passionate student at SPSIT, dedicated to mastering the art of programming. My journey in the world of technology has led me to immerse myself in the realms of C#, ASP.NET, HTML, CSS, and JavaScript.
+Hello there! I'm Peter, a passionate student at SPSIT, dedicated to mastering the art of programming. My journey in the world of technology has led me to immerse myself in the realms of C#, ASP.NET, HTML, CSS, and Java.
 
 Currently, you can often find me buried in lines of code, crafting web applications and solutions that blend functionality and aesthetics seamlessly. I believe in the power of coding to transform ideas into reality, and I'm constantly seeking ways to expand my skill set and take on new challenges.
 
