@@ -44,7 +44,7 @@ Let’s build something crazy cute and a bit cursed together, shall we? 💻💫
   <br />
 
   <div style="display: flex; justify-content: center; gap: 1.9rem; margin-top: 25px;">
-    <div class="tenor-gif-embed" data-postid="25234478" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kitty-chase-pixel-cat-pixel-cat-avegifs-gif-25234478">Kitty Chase Pixel Sticker</a>from <a href="https://tenor.com/search/kitty+chase-stickers">Kitty Chase Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    [<div class="tenor-gif-embed" data-postid="25234478" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kitty-chase-pixel-cat-pixel-cat-avegifs-gif-25234478">Kitty Chase Pixel Sticker</a>from <a href="https://tenor.com/search/kitty+chase-stickers">Kitty Chase Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdwYzg2bng1aXc1OTZiamZodWJrbTN6eHRhb2RxbG53NHpqNGd2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4NWT0Ry3dtTLW/giphy.gif)
   </div>
 
   <br />
