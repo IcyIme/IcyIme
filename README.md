@@ -17,11 +17,8 @@
 
 <br clear="left"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icyime/icyime/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icyime/icyime/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/icyime/icyime/output/pacman-contribution-graph.svg">
-</picture>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=icyime&theme=tokyo-night)
+
 
 <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJxcGtxY2JyOGh3dzJiMm5vejRwYjZ0YnZ0cTBtbDZyODRweTR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iMH73wcGfTfLDAGmob/giphy.gif" />
 
