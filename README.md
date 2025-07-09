@@ -1,71 +1,101 @@
-<h2 align="left">Hi 👋! My name is Jessie and I'm a T-Girl, from Slovakia</h2>
-
-<img align="left" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanptNTRuNmY1c3doa2hkNjBvNnFvZ3ZtNG1paDUxazUzYmpiY2QzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CJQAE0H4egAkX3CqQD/giphy.gif" />
-
-<p align="left">
-  Hey hey! I’m Jessie – a chaotic-good web & software dev, trans woman 🏳️‍⚧️, and full-time Fedora fangirl 🐧💙<br>
-  Coding with love, sarcasm, and the occasional existential crisis.<br><br>
-  🧠 I've been writing C# and .NET for over 6 years – think Blazor, ASP.NET, Entity Framework, SQL... basically backend magic (and a sprinkle of frontend chaos).<br>
-  🌐 Currently exploring Angular, TypeScript and other fun ways to make the browser cry.<br>
-  🐧 100% Linux. 100% Fedora. No dual-boot. Just vibes and terminal tabs.<br><br>
-  💻 I don’t write perfect code – I write code that gets better with every bug.<br>
-  🤝 I *love* jumping into interesting projects – whether it’s open source, experimental, or just for fun.<br>
-  🐾 When I’m not coding, I’m either walking my dog, deep in some creepy Netflix series, or hiking like a wandering bug report.<br><br>
-  > “Code is like humor. When you have to explain it, it’s bad.” – Cory House<br><br>
-  Let’s build cool, weird, slightly cursed things together 💻✨
+<h1 align="center">Hey hey! 👋 I'm Jessie</h1>
+<p align="center">
+  <em>chaotic-good web & software dev, trans woman 🏳️‍⚧️, and full-time Fedora fangirl 🐧💙</em><br>
+  Coding with love, sarcasm, and the occasional existential crisis.
 </p>
 
-<br clear="left"/>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=icyime&theme=tokyo-night)
-
-
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJxcGtxY2JyOGh3dzJiMm5vejRwYjZ0YnZ0cTBtbDZyODRweTR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iMH73wcGfTfLDAGmob/giphy.gif" />
-
-<h4 align="center">Tech I know</h4>
+---
 
 <div align="center">
-  <!-- List of tech logos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  <!-- ... (Add rest of the logos the same way) -->
+
+🧠 **6+ years of C# & .NET wizardry**  
+<span style="color:#ff4081;">Blazor</span>, <span style="color:#42a5f5;">ASP.NET</span>, <span style="color:#66bb6a;">Entity Framework</span>, <span style="color:#ffb300;">SQL</span>... basically backend magic (and a sprinkle of frontend chaos).  
+🌐 Exploring **Angular** & **TypeScript** to make browsers cry (in a good way).  
+🐧 100% Linux. 100% Fedora. No dual-boot. Just vibes and terminal tabs.
+
 </div>
 
-<h4 align="center">Social Media</h4>
+---
 
-<div align="center">
-  <a href="https://www.instagram.com/to_je_icy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+<p align="center" style="font-size: 1.1em; font-style: italic;">
+💻 I don’t write perfect code – I write code that gets better with every bug.<br>
+🤝 I *love* jumping into interesting projects – open source, experimental, or just for fun.<br>
+🐾 When I’m not coding, I’m walking my dog, bingeing creepy Netflix series, or hiking like a wandering bug report.
+</p>
+
+<blockquote align="center" style="font-style: italic; border-left: 4px solid #ff4081; padding-left: 1em; color:#666;">
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+</blockquote>
+
+---
+
+<h2 align="center">Let’s build cool, weird, slightly cursed things together 💻✨</h2>
+
+---
+
+<h3 align="center">📊 GitHub Activity</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IcyIme&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-6A40FD?style=for-the-badge&logo=asp.net&logoColor=white" />
+  <img alt="Entity Framework" src="https://img.shields.io/badge/Entity_Framework-339933?style=for-the-badge&logo=entity-framework&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🔗 Find me on the web</h3>
+<p align="center">
+  <a href="https://medium.com/@IcyIme" target="_blank" rel="noopener noreferrer">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://medium.com/@jessietheice" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://twitter.com/IcyIme" target="_blank" rel="noopener noreferrer">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://x.com/JessieTheIce" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/icyime" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://github.com/IcyIme" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br clear="both" />
+---
 
-<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNpZGszMWwwOXR5NmtpbzVwZGJsOTR2dGJtcnlqa3l2bW1nMXE2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gYFsgwLZogksCPK/giphy.gif" />
+<h3 align="center">📚 Latest Stories & Posts</h3>
+<p align="center">
+  <a href="https://medium.com/@IcyIme" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-images-1.medium.com/max/1200/1*MQSjdOapDhz3-YKoXOkZJg.png" alt="Medium Blog" width="200" />
+  </a>
+</p>
 
-<img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2syZ2s0Y2pqN2F3em95cG5uMXNnMDBndzJhcHpvN2JkM2tkdDk1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69ncKtW98s4QScToxk/giphy.gif" />
+---
 
-<h4 align="center">My Stories</h4>
+<h3 align="center">🎵 What I've been listening to on Spotify</h3>
+<p align="center">
+  <a href="https://open.spotify.com/user/your_spotify_user_id" target="_blank" rel="noopener noreferrer">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user_id&limit=6&theme=dark" alt="Spotify Recently Played" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jessietheice&theme=merko" alt="Medium posts" />
-</div>
+---
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-</div>
+<p align="center" style="font-size: 1.2em;">🎀✨ Crazy I like cute things ✨🎀</p>
 
-<p align="center">🎀✨ Crazy I like cute things ✨🎀</p>
+---
+
+<footer align="center">
+  <small>Made with ❤️ and caffeine ☕ by Jessie</small>
+</footer>
