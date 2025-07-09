@@ -35,16 +35,16 @@ Let’s build something crazy cute and a bit cursed together, shall we? 💻💫
   <div style="max-width: 780px; margin: 0 auto; text-align: left; color: #6b4c1d;">
     <h2 style="font-family: 'Comic Sans MS', cursive; font-weight: 700; color: #a27c39;">My Stories</h2>
     <ul id="medium-stories" style="list-style: none; padding-left: 0;">
-      <li>Loading stories...</li>
+      <li>
+        - [Hello](https://medium.com/@jessietheice/hello-f5383c02335c)
+      </li>
     </ul>
   </div>
 
   <br />
 
   <div style="display: flex; justify-content: center; gap: 1.9rem; margin-top: 25px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJxcGtxY2JyOGh3dzJiMm5vejRwYjZ0YnZ0cTBtbDZyODRweTR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iMH73wcGfTfLDAGmob/giphy.gif" height="95" style="border-radius: 20px; box-shadow: 0 0 18px #f3e8b0cc;" alt="Cute coder gif" />
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2syZ2s0Y2pqN2F3em95cG5uMXNnMDBndzJhcHpvN2JkM2tkdDk1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69ncKtW98s4QScToxk/giphy.gif" height="95" style="border-radius: 20px; box-shadow: 0 0 18px #f3e8b0cc;" alt="Happy coding gif" />
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNpZGszMWwwOXR5NmtpbzVwZGJsOTR2dGJtcnlqa3l2bW1nMXE2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gYFsgwLZogksCPK/giphy.gif" height="95" style="border-radius: 20px; box-shadow: 0 0 18px #f3e8b0cc;" alt="Coding joy gif" />
+    <div class="tenor-gif-embed" data-postid="25234478" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kitty-chase-pixel-cat-pixel-cat-avegifs-gif-25234478">Kitty Chase Pixel Sticker</a>from <a href="https://tenor.com/search/kitty+chase-stickers">Kitty Chase Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </div>
 
   <br />
@@ -65,26 +65,3 @@ Let’s build something crazy cute and a bit cursed together, shall we? 💻💫
   </div>
 
 </div>
-
-<script>
-  // Fetch and show latest Medium posts using RSS to JSON proxy
-  // (Note: GitHub README doesn't support JS, this is for a webpage or local preview)
-  const mediumUser = "jessietheice"; // your Medium username in lowercase
-  const feedUrl = `https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@${mediumUser}`;
-
-  fetch(feedUrl)
-    .then(response => response.json())
-    .then(data => {
-      const list = document.getElementById('medium-stories');
-      list.innerHTML = '';
-      data.items.slice(0, 3).forEach(item => {
-        const li = document.createElement('li');
-        li.style.marginBottom = '12px';
-        li.innerHTML = `<a href="${item.link}" target="_blank" style="color:#a27c39; text-decoration:none; font-weight:600;">${item.title}</a>`;
-        list.appendChild(li);
-      });
-    })
-    .catch(() => {
-      document.getElementById('medium-stories').innerHTML = '<li>Failed to load stories.</li>';
-    });
-</script>
