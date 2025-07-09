@@ -1,22 +1,22 @@
-<h2 align="left">Hi 👋! My name is Jessie and I'm a T-Girl, from Slovakia</h2>
+<h2 align="left" style="font-size:1.5em; margin-bottom:0.2em;">Hi 👋! I'm Jessie, a T-Girl from Slovakia</h2>
 
-<img align="left" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanptNTRuNmY1c3doa2hkNjBvNnFvZ3ZtNG1paDUxazUzYmpiY2QzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CJQAE0H4egAkX3CqQD/giphy.gif" />
+<img align="left" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanptNTRuNmY1c3doa2hkNjBvNnFvZ3ZtNG1paDUxazUzYmpiY2QzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CJQAE0H4egAkX3CqQD/giphy.gif" />
 
-<p align="left">
-Hey hey! I’m Jessie – a chaotic-good web & software dev, trans woman 🏳️‍⚧️, and full-time Fedora fangirl 🐧💙<br>
+<p align="left" style="font-size:0.9em; line-height:1.3em; max-width:600px;">
+Hey! I’m Jessie – chaotic-good web & software dev, trans woman 🏳️‍⚧️, and full-time Fedora fangirl 🐧💙<br>
 Coding with love, sarcasm, and the occasional existential crisis.<br><br>
 
-🧠 I've been writing C# and .NET for over 6 years – think Blazor, ASP.NET, Entity Framework, SQL... basically backend magic (and a sprinkle of frontend chaos).<br>
-🌐 Currently exploring Angular, TypeScript and other fun ways to make the browser cry.<br>
-🐧 100% Linux. 100% Fedora. No dual-boot. Just vibes and terminal tabs.<br><br>
+🧠 6+ years in C# and .NET – Blazor, ASP.NET, EF, SQL... backend magic with a sprinkle of frontend chaos.<br>
+🌐 Exploring Angular, TypeScript, and ways to make browsers cry.<br>
+🐧 100% Linux, 100% Fedora, no dual-boot—just vibes and terminal tabs.<br><br>
 
-💻 I don’t write perfect code – I write code that gets better with every bug.<br>
-🤝 I *love* jumping into interesting projects – whether it’s open source, experimental, or just for fun.<br>
-🐾 When I’m not coding, I’m either walking my dog, deep in some creepy Netflix series, or hiking like a wandering bug report.<br><br>
+💻 I don’t write perfect code, just code that improves with every bug.<br>
+🤝 Love jumping into open source, experimental, or fun projects.<br>
+🐾 When not coding, I’m walking my dog, bingeing creepy Netflix shows, or hiking.<br><br>
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House<br><br>
+<em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em><br><br>
 
-Let’s build cool, weird, slightly cursed things together 💻✨
+Let’s build cool, weird, slightly cursed things 💻✨
 </p>
 
 <br clear="left"/>
@@ -54,13 +54,13 @@ Let’s build cool, weird, slightly cursed things together 💻✨
 <h4 align="center">Social Media</h4>
 
 <div align="center">
-  <a href="https://www.instagram.com/to_je_icy/" target="_blank">
+  <a href="https://www.instagram.com/to_je_icy/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://medium.com/@jessietheice" target="_blank">
+  <a href="https://medium.com/@jessietheice" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=12100E&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://x.com/JessieTheIce" target="_blank">
+  <a href="https://x.com/JessieTheIce" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
