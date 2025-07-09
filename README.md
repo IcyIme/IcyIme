@@ -3,7 +3,7 @@
   <!-- Animated typing for your name -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=48&duration=4000&pause=500&color=A7A459&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=90&lines=Jessie+%E2%9C%A8+The+Chaotic+Trans+Coder+%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%8F%BA"
-    alt="Jessie The Chaotic Trans Coder"
+    alt="  Jessie The Chaotic Trans Coder"
     style="margin-bottom: 20px;"
   />
 
