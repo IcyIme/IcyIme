@@ -7,7 +7,7 @@
     style="margin-bottom: 20px;"
   />
 
-  <pre style="font-size: 1.1em; line-height: 1.65em; max-width: 780px; text-align: left; margin: auto; background: #fef6e4; padding: 26px 36px; border-radius: 30px; box-shadow: 0 8px 22px #f3e8b0cc; color: #a27c39; border: 2px solid #f3e8b0; letter-spacing: 0.05em; white-space: pre-wrap;">
+  <div style="font-size: 1.1em; line-height: 1.65em; max-width: 780px; text-align: left; margin: auto; background: #fef6e4; padding: 26px 36px; border-radius: 30px; box-shadow: 0 8px 22px #f3e8b0cc; color: #a27c39; border: 2px solid #f3e8b0; letter-spacing: 0.05em; white-space: pre-wrap;">
 
 🌸 Hey hey, I’m Jessie!  
 A chaotic-good trans girl coder 🏳️‍⚧️ from beautiful Slovakia 🇸🇰 with a penchant for all things cute, weird, and wonderfully broken.  
@@ -26,7 +26,7 @@ A chaotic-good trans girl coder 🏳️‍⚧️ from beautiful Slovakia 🇸�
 
 Let’s build something crazy cute and a bit cursed together, shall we? 💻💫  
 
-  </pre>
+  </div>
 
   <br />
 
