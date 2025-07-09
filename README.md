@@ -7,25 +7,8 @@
     style="margin-bottom: 20px;"
   />
 
-  <div style="font-size: 1.1em; line-height: 1.65em; max-width: 780px; text-align: left; margin: auto; background: #fef6e4; padding: 26px 36px; border-radius: 30px; box-shadow: 0 8px 22px #f3e8b0cc; color: #a27c39; border: 2px solid #f3e8b0; letter-spacing: 0.05em; white-space: pre-wrap;">
-
-🌸 Hey hey, I’m Jessie!  
-A chaotic-good trans girl coder 🏳️‍⚧️ from beautiful Slovakia 🇸🇰 with a penchant for all things cute, weird, and wonderfully broken.  
-
-💖 With over 6 years of experience spinning magic in C# and .NET, I craft backend spells in Blazor, ASP.NET, Entity Framework, and SQL — basically my secret potions for software success!  
-🛠️ Recently diving headfirst into the colorful chaos of Angular & TypeScript — making browsers cry with cute UI quirks and sharp code.  
-
-🐧 100% Linux, 100% Fedora fangirl — no dual boot, just terminal tabs and good vibes only.  
-🐾 When I’m not debugging code, you’ll find me hiking the hills with my doggo 🐕, binge-watching creepy Netflix shows (because why not?), or scribbling ideas for my next big project.  
-
-🎭 My code isn’t perfect — but it’s full of personality, love, and that special kind of chaos only a true coder knows. Every bug fixed is a tiny victory dance 💃, and every feature built is a little celebration 🎉.  
-
-✨ Passionate about open-source, co-op projects, and building weird digital worlds with a sprinkle of cursed magic. Life’s too short for boring code!  
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House 🦄  
-
-Let’s build something crazy cute and a bit cursed together, shall we? 💻💫  
-
+  <div id="animatedText" style="font-size: 1.1em; line-height: 1.65em; max-width: 780px; text-align: left; margin: auto; background: #fef6e4; padding: 26px 36px; border-radius: 30px; box-shadow: 0 8px 22px #f3e8b0cc; color: #a27c39; border: 2px solid #f3e8b0; letter-spacing: 0.05em; white-space: pre-wrap; overflow-wrap: break-word; min-height: 460px;">
+  <!-- Text bude vložený JS -->
   </div>
 
   <br />
@@ -52,5 +35,42 @@ Let’s build something crazy cute and a bit cursed together, shall we? 💻💫
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </div>
+
+  <script>
+    const text = `🌸 Hey hey, I’m Jessie!  
+A chaotic-good trans girl coder 🏳️‍⚧️ from beautiful Slovakia 🇸🇰 with a penchant for all things cute, weird, and wonderfully broken.  
+
+💖 With over 6 years of experience spinning magic in C# and .NET, I craft backend spells in Blazor, ASP.NET, Entity Framework, and SQL — basically my secret potions for software success!  
+🛠️ Recently diving headfirst into the colorful chaos of Angular & TypeScript — making browsers cry with cute UI quirks and sharp code.  
+
+🐧 100% Linux, 100% Fedora fangirl — no dual boot, just terminal tabs and good vibes only.  
+🐾 When I’m not debugging code, you’ll find me hiking the hills with my doggo 🐕, binge-watching creepy Netflix shows (because why not?), or scribbling ideas for my next big project.  
+
+🎭 My code isn’t perfect — but it’s full of personality, love, and that special kind of chaos only a true coder knows. Every bug fixed is a tiny victory dance 💃, and every feature built is a little celebration 🎉.  
+
+✨ Passionate about open-source, co-op projects, and building weird digital worlds with a sprinkle of cursed magic. Life’s too short for boring code!  
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House 🦄  
+
+Let’s build something crazy cute and a bit cursed together, shall we? 💻💫  
+`;
+
+    const container = document.getElementById('animatedText');
+    let index = 0;
+
+    function typeWriter() {
+      if (index < text.length) {
+        container.innerText += text.charAt(index);
+        index++;
+        setTimeout(typeWriter, 30); // rýchlosť písania v ms, menšie číslo = rýchlejšie
+      }
+    }
+
+    // Spusti animáciu po načítaní
+    window.onload = () => {
+      container.innerText = "";
+      typeWriter();
+    };
+  </script>
 
 </div>
