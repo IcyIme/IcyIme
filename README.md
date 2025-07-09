@@ -115,7 +115,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=jessietheice&theme=dark" alt="Latest Medium posts">
+  <a href="https://medium.com/@jessietheice">
+    <img src="https://nodejs-medium-fetcher.vercel.app/?username=jessietheice&limit=3&responseType=svg" alt="My latest Medium posts">
+  </a>
 </p>
 
 ###
