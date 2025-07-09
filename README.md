@@ -102,11 +102,13 @@
   <a href="https://www.instagram.com/to_je_icy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://medium.com/@jessietheice" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://x.com/JessieTheIce" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
-
-###
-
-<img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2syZ2s0Y2pqN2F3em95cG5uMXNnMDBndzJhcHpvN2JkM2tkdDk1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69ncKtW98s4QScToxk/giphy.gif"  />
 
 ###
 
@@ -114,10 +116,28 @@
 
 ###
 
-<p align="center">
-  <a href="https://medium.com/@jessietheice">
-    <img src="https://nodejs-medium-fetcher.vercel.app/?username=jessietheice&limit=3&responseType=svg" alt="My latest Medium posts">
-  </a>
-</p>
+<br clear="both">
+
+<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNpZGszMWwwOXR5NmtpbzVwZGJsOTR2dGJtcnlqa3l2bW1nMXE2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gYFsgwLZogksCPK/giphy.gif"  />
+
+###
+
+<img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2syZ2s0Y2pqN2F3em95cG5uMXNnMDBndzJhcHpvN2JkM2tkdDk1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69ncKtW98s4QScToxk/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jessietheice&theme=merko" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<p align="center">🎀✨ Crazy I like cute things ✨🎀</p>
 
 ###
