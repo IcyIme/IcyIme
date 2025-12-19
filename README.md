@@ -17,7 +17,7 @@ A chaotic-good trans girl coder 🏳️‍⚧️ from beautiful Slovakia 🇸�
 💖 With over 8 years of experience spinning magic in C# and .NET, I craft backend spells in Blazor, ASP.NET, Entity Framework, and SQL — basically my secret potions for software success!  
 🛠️ Recently diving headfirst into the colorful chaos of Angular & TypeScript — making browsers cry with cute UI quirks and sharp code.  
 
-🐧 100% Linux, 100% Fedora fangirl — no dual boot, just terminal tabs and good vibes only.  
+🐧 100% Before linux now 100% MAC OS — no dual boot, just terminal tabs and good vibes only.
 🐾 When I’m not debugging code, you’ll find me hiking the hills with my doggo 🐕, binge-watching creepy Netflix shows (because why not?), or scribbling ideas for my next big project.  
 
 🎭 My code isn’t perfect — but it’s full of personality, love, and that special kind of chaos only a true coder knows. Every bug fixed is a tiny victory dance 💃, and every feature built is a little celebration 🎉.  
