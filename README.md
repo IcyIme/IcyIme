@@ -14,7 +14,7 @@
 🌸 Hey hey, I’m Jessie!  
 A chaotic-good trans girl coder 🏳️‍⚧️ from beautiful Slovakia 🇸🇰 with a penchant for all things cute, weird, and wonderfully broken.  
 
-💖 With over 8 years of experience spinning magic in C# and .NET, I craft backend spells in Blazor, ASP.NET, Entity Framework, and SQL — basically my secret potions for software success!  
+💖 With years of experience spinning magic in C# and .NET, I craft backend spells in Blazor, ASP.NET, Entity Framework, and SQL — basically my secret potions for software success!  
 🛠️ Recently diving headfirst into the colorful chaos of Angular & TypeScript — making browsers cry with cute UI quirks and sharp code.  
 
 🐧 100% Before linux now 100% MAC OS — no dual boot, just terminal tabs and good vibes only.
